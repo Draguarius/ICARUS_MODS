@@ -5,4 +5,4 @@ Mods for Icarus Game
 
 Устанавливайте с помощью ***[Icarus Mod Manager от Jimk72](https://github.com/Jimk72/Icarus_Software)***
 
-***[> Discord сервер](https://discord.gg/62Kd7nh8VV)***
+***[> Наш Discord сервер](https://discord.gg/62Kd7nh8VV)***
