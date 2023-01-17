@@ -1,0 +1,15 @@
+{
+  "mods": [
+    {
+      "name": "Respawn_OpenWorld",
+      "author": "Draguarius",
+      "version": "1.0",
+      "compatibility": "w58",
+      "description": "Respawn Open World Resources, Short radio SMPL3 don't work, delete this mod after respawn resources.",
+      "fileType": "pak",
+      "fileURL": "https://github.com/Draguarius/ICARUS_MODS/raw/main/Respawn_OpenWorld_P.pak",
+      "long_description": "",
+      "imageURL": ""
+    }
+  ]
+}
