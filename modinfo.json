@@ -10,6 +10,50 @@
       "fileURL": "https://github.com/Draguarius/ICARUS_MODS/raw/main/Respawn_OpenWorld_P.pak",
       "long_description": "Resources are restored at startup or in the immediate vicinity of the cave.",
       "imageURL": "https://github.com/Draguarius/ICARUS_MODS/raw/main/Respawn_OpenWorld.png"
+    },
+    {
+      "name": "Fishing_Rod",
+      "author": "Draguarius",
+      "version": "1.0",
+      "compatibility": "w58",
+      "description": "A basic fishing rod.",
+      "fileType": "pak",
+      "fileURL": "https://github.com/Draguarius/ICARUS_MODS/raw/main/Fishing_Rod_P.pak",
+      "long_description": "Functional coming soon! But it's not exactly ¯\_(ツ)_/¯",
+      "imageURL": "https://github.com/Draguarius/ICARUS_MODS/raw/main/Fishing_Rod.png"
+    },
+    {
+      "name": "Fishing_Trap",
+      "author": "Draguarius",
+      "version": "1.0",
+      "compatibility": "w58",
+      "description": "Fishing trap.",
+      "fileType": "pak",
+      "fileURL": "https://github.com/Draguarius/ICARUS_MODS/raw/main/Fishing_Trap_P.pak",
+      "long_description": "Functional coming soon! But it's not exactly ¯\_(ツ)_/¯",
+      "imageURL": "https://github.com/Draguarius/ICARUS_MODS/raw/main/Fishing_Trap.png"
+    },
+    {
+      "name": "Water_Canister",
+      "author": "Draguarius",
+      "version": "1.0",
+      "compatibility": "w58",
+      "description": "Water Barrel 20L",
+      "fileType": "pak",
+      "fileURL": "https://github.com/Draguarius/ICARUS_MODS/raw/main/Water_Canister_P.pak",
+      "long_description": "A robust water storage solution. Keep it filled, stay alive. It is filled near the water supply.",
+      "imageURL": "https://github.com/Draguarius/ICARUS_MODS/raw/main/Water_Canister.png"
+    },
+    {
+      "name": "Wood_Barrel",
+      "author": "Draguarius",
+      "version": "1.0",
+      "compatibility": "w58",
+      "description": "Wooden Barrel 20L",
+      "fileType": "pak",
+      "fileURL": "https://github.com/Draguarius/ICARUS_MODS/raw/main/Wood_Barrel_P.pak",
+      "long_description": "Stores water. It is filled near the water supply.",
+      "imageURL": "https://github.com/Draguarius/ICARUS_MODS/raw/main/Wood_Barrel.png"
     }
   ]
 }
