@@ -8,8 +8,8 @@
       "description": "Respawn Open World Resources, Short radio SMPL3 don't work, delete this mod after respawn resources.",
       "fileType": "pak",
       "fileURL": "https://github.com/Draguarius/ICARUS_MODS/raw/main/Respawn_OpenWorld_P.pak",
-      "long_description": "",
-      "imageURL": ""
+      "long_description": "Resources are restored at startup or in the immediate vicinity of the cave.",
+      "imageURL": "https://github.com/Draguarius/ICARUS_MODS/raw/main/Respawn_OpenWorld.png"
     }
   ]
 }
