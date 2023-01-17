@@ -1,4 +1,4 @@
-# ICARUS_MODS
+# ***[> ICARUS_MODS](https://discord.gg/linkarus-icarus-modding-936621749733302292)***
 Mods for the Icarus game ***[> IcaRUS FAN Community Discord](https://discord.gg/62Kd7nh8VV)***
 
 Install using ***[> Icarus Mod Manager от Jimk72](https://github.com/Jimk72/Icarus_Software)***
