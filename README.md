@@ -7,4 +7,4 @@
 
 ***[> Наш Discord сервер](https://discord.gg/62Kd7nh8VV)***
 
-Respawn Open World Resources, Short radio SMPL3 don't work, delete this mod after respaw resource.
+Respawn Open World Resources, Short radio SMPL3 don't work, delete this mod after respawn resources.
