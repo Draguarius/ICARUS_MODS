@@ -54,6 +54,17 @@
       "fileURL": "https://github.com/Draguarius/ICARUS_MODS/raw/main/Wood_Barrel_P.pak",
       "long_description": "Stores water. It is filled near the water supply.",
       "imageURL": "https://github.com/Draguarius/ICARUS_MODS/raw/main/Wood_Barrel.png"
+    },
+    {
+      "name": "RU Localization",
+      "author": "Draguarius",
+      "version": "1.0",
+      "compatibility": "w58",
+      "description": "RU Localization.",
+      "fileType": "pak",
+      "fileURL": "https://github.com/Draguarius/ICARUS_MODS/raw/main/RULOC_P.pak",
+      "long_description": "",
+      "imageURL": ""
     }
   ]
 }
