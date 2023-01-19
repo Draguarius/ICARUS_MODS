@@ -1,7 +1,7 @@
 {
   "mods": [
     {
-      "name": "Respawn_OpenWorld",
+      "name": "Respawn OpenWorld",
       "author": "Draguarius",
       "version": "1.0",
       "compatibility": "w58",
@@ -12,7 +12,7 @@
       "imageURL": "https://github.com/Draguarius/ICARUS_MODS/raw/main/Respawn_OpenWorld.png"
     },
     {
-      "name": "Fishing_Rod",
+      "name": "Fishing Rod",
       "author": "Draguarius",
       "version": "1.0",
       "compatibility": "w58",
@@ -23,7 +23,7 @@
       "imageURL": "https://github.com/Draguarius/ICARUS_MODS/raw/main/Fishing_Rod.png"
     },
     {
-      "name": "Fishing_Trap",
+      "name": "Fishing Trap",
       "author": "Draguarius",
       "version": "1.0",
       "compatibility": "w58",
@@ -34,7 +34,7 @@
       "imageURL": "https://github.com/Draguarius/ICARUS_MODS/raw/main/Fishing_Trap.png"
     },
     {
-      "name": "Water_Canister",
+      "name": "Water Canister",
       "author": "Draguarius",
       "version": "1.0",
       "compatibility": "w58",
@@ -45,7 +45,7 @@
       "imageURL": "https://github.com/Draguarius/ICARUS_MODS/raw/main/Water_Canister.png"
     },
     {
-      "name": "Wood_Barrel",
+      "name": "Wood Barrel",
       "author": "Draguarius",
       "version": "1.0",
       "compatibility": "w58",
