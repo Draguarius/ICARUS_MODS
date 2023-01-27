@@ -41,7 +41,7 @@
       "description": "Water Barrel 20L.",
       "fileType": "pak",
       "fileURL": "https://github.com/Draguarius/ICARUS_MODS/raw/main/Water_Canister_P.pak",
-      "long_description": "A robust water storage solution. Keep it filled, stay alive. It is filled near the water supply.",
+      "long_description": "A robust water storage solution. Сan be filled in the sink.",
       "imageURL": "https://github.com/Draguarius/ICARUS_MODS/raw/main/Water_Canister.png"
     },
     {
@@ -52,7 +52,7 @@
       "description": "Wooden Barrel 20L.",
       "fileType": "pak",
       "fileURL": "https://github.com/Draguarius/ICARUS_MODS/raw/main/Wood_Barrel_P.pak",
-      "long_description": "Stores water. It is filled near the water supply.",
+      "long_description": "Stores water. Сan be filled in the sink.",
       "imageURL": "https://github.com/Draguarius/ICARUS_MODS/raw/main/Wood_Barrel.png"
     },
     {
