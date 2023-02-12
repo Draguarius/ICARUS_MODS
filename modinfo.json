@@ -44,7 +44,7 @@
       "author": "Draguarius",
       "version": "1.0",
       "compatibility": "All",
-      "description": "Water Barrel 20L. A robust water storage solution. Can be filled in the sink.",
+      "description": "Water Barrel 20L. A robust water storage solution. Filled near water pipe.",
       "imageURL": "https://github.com/Draguarius/ICARUS_MODS/raw/main/Water_Canister.png",
       "readmeURL": "",
       "files": {        
@@ -57,7 +57,7 @@
       "author": "Draguarius",
       "version": "1.0",
       "compatibility": "All",
-      "description": "Wooden Barrel 20L. Stores water. Can be filled in the sink.",      
+      "description": "Wooden Barrel 20L. Stores water. Filled near water pipe.",      
       "imageURL": "https://github.com/Draguarius/ICARUS_MODS/raw/main/Wood_Barrel.png",
       "readmeURL": "",
       "files": {
