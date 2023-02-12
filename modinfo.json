@@ -20,8 +20,8 @@
       "compatibility": "All",
       "description": "A basic fishing rod.",
       "files": {        
-		          "exmodz": "https://github.com/Draguarius/ICARUS_MODS/raw/main/Fishing_Rod.EXMODZ",
-		          "pak": "https://github.com/Draguarius/ICARUS_MODS/raw/main/Fishing_Rod_P.pak"
+              "exmodz": "https://github.com/Draguarius/ICARUS_MODS/raw/main/Fishing_Rod.EXMODZ",
+              "pak": "https://github.com/Draguarius/ICARUS_MODS/raw/main/Fishing_Rod_P.pak"
       },
       "long_description": "Functional coming soon! But it's not exactly.",
       "imageURL": "https://github.com/Draguarius/ICARUS_MODS/raw/main/Fishing_Rod.png"
@@ -33,7 +33,7 @@
       "compatibility": "All",
       "description": "Fishing trap.",
       "files": {        
-		          "exmodz": "https://github.com/Draguarius/ICARUS_MODS/raw/main/Fishing_Trap_P.EXMODZ",
+              "exmodz": "https://github.com/Draguarius/ICARUS_MODS/raw/main/Fishing_Trap_P.EXMODZ",
               "pak": "https://github.com/Draguarius/ICARUS_MODS/raw/main/Fishing_Trap_P.pak"
       },
       "long_description": "Functional coming soon! But it's not exactly.",
@@ -46,7 +46,7 @@
       "compatibility": "All",
       "description": "Water Barrel 20L.",
       "files": {        
-		          "exmodz": "https://github.com/Draguarius/ICARUS_MODS/raw/main/Water_Canister_P.EXMODZ",
+              "exmodz": "https://github.com/Draguarius/ICARUS_MODS/raw/main/Water_Canister_P.EXMODZ",
               "pak": "https://github.com/Draguarius/ICARUS_MODS/raw/main/Water_Canister_P.pak"
       },
       "long_description": "A robust water storage solution. Can be filled in the sink.",
