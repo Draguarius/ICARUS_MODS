@@ -76,6 +76,19 @@
       "files": {
         "pak": "https://github.com/Draguarius/ICARUS_MODS/raw/main/RULOC_P.pak"
       }
+    },
+    {
+      "name": "Extra Radar",
+      "author": "Draguarius",
+      "version": "1.0",
+      "compatibility": "All",
+      "description": "5 sec scan, 15 km scan radius",
+      "imageURL": "https://github.com/Draguarius/ICARUS_MODS/raw/main/Extra_Radar.png",
+      "readmeURL": "",
+      "files": {
+          "pak": "https://github.com/Draguarius/ICARUS_MODS/raw/main/Extra_Radar_P.pak",
+          "exmodz": "https://github.com/Draguarius/ICARUS_MODS/raw/main/Extra_Radar.EXMODZ"
+      }
     }
   ]
 }
