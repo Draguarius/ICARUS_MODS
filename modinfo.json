@@ -69,7 +69,7 @@
       "name": "RU Localization",
       "author": "Draguarius",
       "version": "65.0",
-      "compatibility": "w64",
+      "compatibility": "All",
       "description": "RU Localization.",
       "imageURL": "",
       "readmeURL": "",
