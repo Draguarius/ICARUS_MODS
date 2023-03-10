@@ -1,5 +1,5 @@
 # ***[> ICARUS MODS](https://discord.gg/k8EJb3gpeM)***
-Mods for the Icarus game ***[> IcaRUS FAN Community Discord](https://discord.gg/62Kd7nh8VV)***
+Mods for the Icarus game ***[> IcaRUS FAN Community Discord](https://discord.gg/NBDbnvGxgW)***
 
 Install using ***[> Icarus Mod Manager from Jimk72](https://github.com/Jimk72/Icarus_Software)***
 
